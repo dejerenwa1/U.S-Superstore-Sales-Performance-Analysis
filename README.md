@@ -91,6 +91,9 @@ Based on the analysis, the business could:
 - Focus marketing efforts on promising product categories and regions.
 - Use monthly revenue trends to improve sales forecasting and planning.
 
+## Dashboard Preview
+
+<img width="1519" height="929" alt="Dashboard_screenshot" src="https://github.com/user-attachments/assets/729aafac-184c-452a-b79f-79f08b8b6f0c" />
 
 ## Project Files
 
